@@ -1,0 +1,282 @@
+# Webalizer V2.23-05 Incremental Data - 04/28/2018 23:51:52
+2018 4 28 23 51 52
+126 90 23 12 13 17 941570 68 52 0
+5 13 22 21 28
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 6920 1 1 1
+33 25 308551 6 12 6
+6 3 22450 4 2 2
+17 12 144753 5 7 7
+30 23 153394 6 24 21
+9 5 37700 7 5 5
+12 7 104183 6 8 6
+17 13 163619 5 9 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 6920 1
+7 5 27840 4
+2 2 8280 2
+4 3 16670 3
+6 1 25390 3
+3 1 12640 2
+1 0 4250 1
+6 3 20920 4
+2 1 8390 2
+0 0 0 0
+3 3 11060 2
+1 1 4140 1
+3 2 12530 2
+1 1 4140 1
+0 0 0 0
+3 0 8500 1
+4 2 16780 3
+10 8 36180 4
+32 25 389174 8
+5 3 20920 4
+7 6 53264 6
+1 0 4250 1
+7 6 87293 5
+16 15 162039 8
+0
+0
+0
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+1
+32
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/img-sys/img/bg-1.png
+0 3 7312272859200644471 64296 0 0
+/webmail
+0 2 0 67848 0 2
+/img-sys/img/bg-3.jpg
+0 1 38176208 9280 0 0
+/favicon.ico
+0 11 0 27800 0 0
+/img-sys/img/logo.png
+0 5 0 83275 0 0
+/img-sys/img/snappy.png
+0 4 0 183692 0 0
+/img-sys/favicon.ico
+0 3 0 0 0 0
+/img-sys/js/respond.min.js
+0 5 0 22955 0 0
+/cpanel
+0 2 0 67838 1 0
+/img-sys/js/modernizr-2.6.2.min.js
+0 4 0 60612 0 0
+/
+0 48 0 190440 39 25
+/img-sys/css/style.min.css
+0 5 0 23295 0 0
+# End Of Table - urls
+# -sites- (monthly)
+msnbot-40-77-167-32.search.msn.com
+0 1 0 0 1 1524843733
+/
+crawl-66-249-79-127.googlebot.com
+0 17 10 95319 9 1524868418
+/cpanel
+msnbot-40-77-167-45.search.msn.com
+0 1 0 4250 1 1524500130
+-
+s01069050ca551443.vc.shawcable.net
+0 19 18 202883 4 1524959512
+/
+r-199-59-150-182.twttr.com
+0 2 1 8390 1 1524705854
+/
+crawl-66-249-64-93.googlebot.com
+0 3 0 12750 1 1524421619
+-
+64.125.109.186.ipyx-130481-zyo.zip.zayo.com
+0 8 8 27680 1 1524417256
+/
+msnbot-157-55-39-23.search.msn.com
+0 2 0 8500 0 0
+-
+msnbot-157-55-39-244.search.msn.com
+0 1 0 0 1 1524946764
+/
+ec2-54-183-165-74.us-west-1.compute.amazonaws.com
+0 2 2 8280 2 1524759514
+/
+sogouspider-36-110-147-71.crawl.sogou.com
+0 1 1 4140 1 1524944361
+/
+msnbot-40-77-167-2.search.msn.com
+0 1 0 4250 1 1524630901
+-
+s010698fc1154c4d9.vc.shawcable.net
+0 3 3 11060 1 1524791889
+/
+s0106c8fb26493c19.vc.shawcable.net
+0 8 7 112663 1 1524595408
+-
+d75-157-71-112.bchsia.telus.net
+0 2 2 6920 1 1524564903
+/
+msnbot-157-55-39-97.search.msn.com
+0 1 1 4140 1 1524729000
+/
+msnbot-157-55-39-25.search.msn.com
+0 2 0 8500 0 0
+-
+msnbot-40-77-167-80.search.msn.com
+0 1 0 4250 1 1524372590
+-
+msnbot-207-46-13-11.search.msn.com
+0 1 0 4250 1 1524385694
+-
+s0106c8fb26582819.vc.shawcable.net
+0 20 16 259731 1 1524422921
+-
+173.252.123.180
+0 2 2 6920 1 1524354901
+/
+crawl-66-249-79-96.googlebot.com
+0 9 6 67374 7 1524902145
+-
+crawl-66-249-79-125.googlebot.com
+0 19 13 79320 14 1524868224
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-79-127.googlebot.com
+0 1 0 4250 0 0
+-
+s01069050ca551443.vc.shawcable.net
+0 13 12 150979 1 1524959512
+/
+msnbot-157-55-39-244.search.msn.com
+0 1 0 0 1 1524946764
+/
+sogouspider-36-110-147-71.crawl.sogou.com
+0 1 1 4140 1 1524944361
+/
+crawl-66-249-79-96.googlebot.com
+0 1 0 4250 1 1524902145
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://webcache.googleusercontent.com/search
+0 2
+https://www.vr7190.ca/
+0 10
+https://www.vr7190.ca/img-sys/css/style.min.css
+0 2
+https://vr7190.ca/
+0 6
+https://www.google.com/
+0 1
+- (Direct Request)
+0 78
+https://lm.facebook.com/
+0 1
+https://vr7190.ca/img-sys/css/style.min.css
+0 7
+https://www.google.ca/
+0 2
+https://l.facebook.com/l.php
+0 1
+https://vr7190.ca/2018-1
+0 8
+https://vr7190.ca/home
+0 3
+https://vr7190.ca/the-team
+0 5
+# End Of Table - referrers
+# -agents- 
+Twitterbot/1.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+0 13
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-T580 Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.4 Ch
+0 9
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 32
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 2
+Googlebot-Image/1.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E198 Safa
+0 1
+Mozilla/5.0 (Linux; Android 7.1.1; SM-N9005 Build/NOF27B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile 
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 14
+Mozilla/5.0 (Linux; Android 8.1.0; PH-1 Build/OPM1.180104.141) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.126 Mo
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.4 Chrome/56.0.2924.87 Safari/537.36
+0 11
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 8
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+  <title>vr7190 |Page not found...</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="vr7190.ca/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="vr7190.ca/default.css">
+  <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans|Nunito+Sans" rel="stylesheet">  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="home/index.html">
+        <img src="vrlogo.png" id="logo "width="30" height="30" class="d-inline-block align-top" alt="">
+        vr7190
+      </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-item nav-link" href="the-team/index.html">The Team</a>
+        <a class="nav-item nav-link" href="the-robot/index.html">The Robot</a>
+        <a class="nav-item nav-link" href="sponsors/index.html">Sponsors</a>
+        <a class="nav-item nav-link" href="acknowledgements/index.html">Acknowledgements</a>
+        <a class="nav-item nav-link" href="http://go.vsb.bc.ca/schools/templeton/Pages/default.aspx">Templeton Secondary</a>
+      </div>
+    </div>
+  </nav>
+<body>
+<div class="background">
+    
+  <div class="container-fluid block1">
+    <h1 class="text-left">Error</h1>
+    <h2 id="title-subtext" class="text-muted text-left">The page you are looking for cannot be found.</h2> 
+  </div>
+
+<div class="block2" id="filler"></div>
+
+<!--Footer-->
+<footer class="page-footer font-small stylish-color-dark pt-4 mt-4 block2">
+
+    <!--Footer Links-->
+    <div class="container text-center text-md-left">
+        <div class="row">
+
+            <hr class="clearfix w-100 d-md-none">
+
+            <!--First column-->
+            <div class="col-md-2 mx-auto">
+            </div>
+        </div>
+    </div>
+    <!--/.Footer Links-->
+
+    <p>Email Us At: <br>templeton7190@gmail.com <br>or<br>wlloyd@vsb.bc.ca</p>
+    <div class="socialicons">
+    <a href="https://www.facebook.com/groups/136812663683148/"><i class="fa fa-facebook" style="font-size:24px"></i></a>
+    <a href="https://www.instagram.com/templetonrobotics/"><i class="fa fa-instagram" style="font-size:24px"></i></a>
+    <a href="https://www.thebluealliance.com/team/7190"><i class="fa fa-shield" style="font-size:24px"></i></a>
+    <a href="https://frc-events.firstinspires.org/2018/team/7190"><i class="fa fa-institution" style="font-size:24px"></i></a>
+    <a href="https://gofundme.com/temprobotics"><i class="fa fa-money" style="font-size:24px"></i></a>
+    </div>
+
+    <copyright>
+    <div class="footer-copyright py-3 text-center">
+        © 2018 Copyright:
+        <a href="Home/index.html">All Rights Reserved</a>
+    </div>
+    </copyright>
+
+</footer>
+                      
+</div>
+</html>

@@ -1,0 +1,113 @@
+.background {
+    background-image: url("images/background.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#robocomp {
+    padding-left: 0.333%;
+    text-align: center !important;
+}
+
+#logo {
+    width: 1000px !important;
+    height: 1000px !important;
+}
+
+#radio {
+    padding-bottom: 5%;
+}
+
+#aboutus {
+    opacity: 1.0 !important;
+    width: 60%;
+    height: 60%;
+    padding: 7px;
+}
+
+#splash-screen h2 {
+    font-size: 135%;
+}
+
+#splash-screen {
+    padding-top: 10%; padding-bottom: 10%; padding-left: 5%;
+}
+
+#title-subtext {
+    color: whitesmoke !important;
+}
+
+p, h1, h2, h3 {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: 'IBM Plex Sans', sans-serif;
+   }
+
+h1 {
+    font-size: 400%;
+}
+
+p {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+  }
+
+.block1 {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 25px;
+}
+
+.block2 {
+    color: white;
+    background-color: rgba(14, 14, 14, 0.9);
+    padding: 25px;
+}
+
+a:visited, a:link {
+    color: black !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: gray !important;
+    text-decoration: none !important;
+}
+
+.navbar {
+    padding: 25px;
+    font-size: 17px;
+}
+
+.navbar a:visited, .navbar a:link, .navbar {
+    background-color:black !important;
+    color: whitesmoke !important;  
+}
+
+footer a:visited, footer a:link {
+    color: white !important;
+}
+
+footer {
+    color: white !important;
+}
+
+.navbar-nav a {
+    padding-left: 15px !important; padding-right: 15px !important;
+}
+
+i {
+    padding-left: 10px; padding-right: 10px;
+}
+
+.socialicons {
+    text-align: center !important;
+}
+
+iframe {
+    width: 35%;
+    height: 200%;
+}

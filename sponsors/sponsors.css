@@ -1,0 +1,97 @@
+.background {
+    background-image: url("images/background.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p, h1, h2, h3 {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: 'IBM Plex Sans', sans-serif;
+   }
+
+h1 {
+    font-size: 400%;
+}
+
+p {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+  }
+
+.block1 {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 25px;
+}
+
+.block2 {
+    color: white;
+    background-color: rgba(25, 25, 25, 0.9);
+    padding: 25px;
+}
+
+a:visited, a:link {
+    color: black !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: gray !important;
+    text-decoration: none !important;
+}
+
+.navbar {
+    padding: 25px;
+    font-size: 17px;
+}
+
+.navbar a:visited, .navbar a:link, .navbar {
+    background-color:black !important;
+    color: whitesmoke !important;  
+}
+
+footer a:visited, footer a:link {
+    color: white !important;
+}
+
+footer {
+    color: white !important;
+}
+
+.navbar-nav a {
+    padding-left: 15px !important; padding-right: 15px !important;
+}
+
+.logos1 {
+    width: 33%;
+    padding: 10px;
+}
+
+.logos2 {
+    width: 24%;
+    padding: 10px;
+}
+
+#active {
+    text-decoration: underline !important; 
+}
+
+#active a:visited, #active a:link {
+    text-decoration: underline !important;
+}
+
+#active a:hover {
+    text-decoration: underline !important;
+}
+
+i {
+    padding-left: 10px; padding-right: 10px;
+}
+
+.socialicons {
+    text-align: center !important;
+}
